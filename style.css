@@ -202,7 +202,7 @@
   
   .reasons-container::before,
   .reasons-container::after {
-    content: '❤️';
+    content: '🤍';
     position: absolute;
     font-size: 1.5rem;
     opacity: 0.3;
@@ -341,7 +341,7 @@
   
   /* Add a small heart icon before the last reason */
   #reason-list li.special-reason::before {
-    content: '❤️'; /* Heart emoji */
+    content: '🤍'; /* Heart emoji */
     position: absolute;
     left: -25px; /* Offset to the left */
     top: 50%;
@@ -441,7 +441,7 @@
 }
 
 .special-message p::before {
-  content: '💖';
+  content: '🤍';
   position: absolute;
   left: -25px;
   top: 50%;
