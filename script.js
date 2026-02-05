@@ -1,4 +1,3 @@
-// List of 100 reasons why you love Nikki
 const reasons = [
     "You make me smile every day.",
     "Your laugh is contagious.",
@@ -63,10 +62,10 @@ const reasons = [
     "Your face is forever etched in my heart.",
     "You're the reason why I randomly smile throughout the day (and look like a maniac).",
     "You make every moment feel like a gift.",
-    "You're my favorite person to share silence with (even if it gets a little bit awkward).",
+    "You're my favorite person to share silence with.",
     "You've taught me how to find joy in the little things.",
     "You're the brightest star in my sky.",
-    "You're my favorite kind of distraction from stress.",
+    "676767676767 You're my favorite kind of distraction from stress.",
     "You've shown me that love doesn't have to be perfect to be real.",
     "You're the reason I wake up grateful every morning.",
     "You're my favorite kind of magic--the kind that's real.",
@@ -78,7 +77,7 @@ const reasons = [
     "You're the person I'd want by my side during life's scariest moments.",
     "You've taught me that love is about finding joy in the journey, not just the destination, no matter how long it takes.",
     "You've shown me that love is about being vulnerable, even when it's scary.",
-    "You're my duck ;)",
+    "You're my bunny ;)",
     "You're the person I'd share my umbrella with--even if it means getting wet myself.",
     "You're the reason I don't mind waiting--because you're worth it.",
     "You affect me in ways I never thought possible.",
@@ -93,13 +92,13 @@ const reasons = [
     "You make me feel ways I never thought possible.",
     "You've taught me that distance means so little when someone means so much.",
     "You're proof that the best things in life are worth waiting for.",
-    "You're the reason I don't mind staying up late or waking up early.",
+    "You're the reason I don't mind staying up late (sometimes) or waking up early.",
     "You make every song sound like it was written just for us.",
-    "You're the reason why I believe in love at first sight.",
+    "You're the reason why I believe in love.",
     "You're the reason why I believe in high school sweethearts.",
-    "You're the person I'd sit in silence on a staircase for hours with.",
-    "You're the person I'd wait three years for so I can be with you.",
-    "YOU'RE MY EVERYTHING NIKKI AND I LOVE YOU SO MUCH ❤️"
+    "You're the person I'd sit in silence for hours with.",
+    "You're the person I'd wait for so I can be with you.",
+    "YOU'RE MY EVERYTHING BABY AND I LOVE YOU SO MUCH 🤍"
 ];
 
 // Function to populate the list with reasons
@@ -128,7 +127,7 @@ function populateReasons() {
               origin: { y: 0.6 }
           });
       }
-  }, reasons.length * 100); // Delay based on animation timing
+  }, reasons.length * 200); // Delay based on animation timing
 }
 
 
